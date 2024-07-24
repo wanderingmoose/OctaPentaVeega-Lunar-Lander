@@ -1,4 +1,5 @@
 # Arduino Lunar Lander with OctaPentaVeega VGA Shield
+### (The OctaPentaVeega Module information is in another repository: Search for OctaPentaVeega)
 I was given the excellent OctaPentaVeega - Arduino VGA shield by Jari Tulilahti. For a long time it sat on my Arduino-related hardware pile, since I was kind of busy with other projects - like the dual hardware speech synthesis box. One of the synths was in my drawer for about 20 years before I got around to actually finishing it. One day I might even document it.
 
  After some initial fumbling and mucking around, I finally came up with an idea what to do with it - the 1-dimensional text-based Lunar Lander simulator. Yeah, some snazzy IoT home automation display project would probably have been way cooler, but I like retro-y things, so Lunar Lander game it is. World is filled with temperature displays, anyway.
